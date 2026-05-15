@@ -8,8 +8,16 @@ nav_order: 6
 calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## Teaching Assistant
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+### 6.6010 Analysis and Design of Digital Integrated Circuits, MIT
 
-{% include courses.liquid %}
+Fall 2025
+
+**Role:** Teaching Assistant  
+**Instructor:** Professor [Vivienne Sze](https://www.eecs.mit.edu/people/vivienne-sze/)  
+**Co-TA:** Alyssa Keirn
+
+<!-- {% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+
+{% include courses.liquid %} -->
