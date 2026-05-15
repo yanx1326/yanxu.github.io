@@ -10,15 +10,13 @@ Outside research, I enjoy climbing, mountaineering, hiking, skiing, and running.
 
 ## Climbing
 
-### Acadia Beehive
+### Acadia Beehive Hiking and Outdoor Bouldering
 
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/mis/arcadia.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/mis/arcadia.JPG" class="img-fluid rounded z-depth-1" zoomable=true max-width="60%"%}
   </div>
 </div>
-
-### Bouldering
 
 ### Rumney lead
 
@@ -83,6 +81,6 @@ Outside research, I enjoy climbing, mountaineering, hiking, skiing, and running.
 
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/mis/cambridge_half_marathon.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/mis/cambridge_half_marathon.jpg" class="img-fluid rounded z-depth-1" zoomable=true max-width="60%"%}
   </div>
 </div>
