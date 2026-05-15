@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2026-05-11 00:00:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+**May 2026**: I was happy to co-chair the first MTL AI Hackson from May 8–10 and give a tutorial during the event. It was a unique and rewarding experience, with many inspiring talks from industry speakers.
