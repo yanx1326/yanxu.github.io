@@ -16,7 +16,7 @@ Fall 2025
 
 **Role:** Teaching Assistant  
 **Instructor:** Professor [Vivienne Sze](https://www.eecs.mit.edu/people/vivienne-sze/)  
-**Co-TA:** Alyssa Keirn
+**Co-TA:** [Alyssa Keirn](https://www.linkedin.com/in/alyssa-keirn/)
 
 <!-- {% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
 

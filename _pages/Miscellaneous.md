@@ -79,7 +79,7 @@ Outside research, I enjoy climbing, mountaineering, hiking, skiing, and running.
 
 ### Half Dome
 
-<div class="row mt-3 misc-gallery-3-4">
+<div class="row mt-3 misc-gallery-narrow">
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/mis/half_dome.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
