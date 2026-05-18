@@ -505,7 +505,7 @@ ninja.data = [{
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/yanx1326", "_blank");
+          window.open("https://github.com/yanxu-ai4e", "_blank");
         },
       },{
       id: 'light-theme',
